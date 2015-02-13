@@ -3,7 +3,7 @@ Contributors: ThemeBoy, brianmiyaji
 Tags: sitemap, tree, overview, admin, navigation, posts, pages, visual sitemap, visual tree, sitetree, slickmap
 Requires at least: 3.0
 Tested up to: 4.0
-Stable tag: 0.9
+Stable tag: 0.9.1
 License: GPLv2 or later
 
 Display an interactive visual sitemap of pages, tags, and categories in admin.
@@ -42,6 +42,9 @@ Automatic updates should work like a charm; as always though, ensure you backup 
 1. Visual sitemap page in admin.
 
 == Changelog ==
+
+= 0.9.1 =
+* Localization - Update translations.
 
 = 0.9 =
 * Beta release.
