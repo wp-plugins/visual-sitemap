@@ -1,14 +1,14 @@
 <?php
 /**
  * @package Visual_Sitemap
- * @version 0.9
+ * @version 0.9.1
  */
 /*
 Plugin Name: Visual Sitemap
 Plugin URI: http://wordpress.org/plugins/visual-sitemap/
 Description: Display an interactive visual sitemap of pages, tags, and categories in admin.
 Author: ThemeBoy
-Version: 0.9
+Version: 0.9.1
 Author URI: http://themeboy.com/
 */
 
@@ -42,7 +42,7 @@ class Visual_Sitemap {
 	*/
 	private function define_constants() {
 		if ( !defined( 'VISUAL_SITEMAP_VERSION' ) )
-			define( 'VISUAL_SITEMAP_VERSION', '0.9' );
+			define( 'VISUAL_SITEMAP_VERSION', '0.9.1' );
 
 		if ( !defined( 'VISUAL_SITEMAP_URL' ) )
 			define( 'VISUAL_SITEMAP_URL', plugin_dir_url( __FILE__ ) );
